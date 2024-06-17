@@ -18,4 +18,4 @@ void push(Stack *stack, double value);
 double pop(Stack *stack);
 double Posfixa(char* expression);
 
-#endif // CALCULADORA_H
+#endif
